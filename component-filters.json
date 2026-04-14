@@ -74,7 +74,8 @@
       "text-input",
       "tnc",
       "wizard",
-      "range"
+      "range",
+      "Card "
     ]
 >>>>>>> 1a7358a (Initial commit)
   }

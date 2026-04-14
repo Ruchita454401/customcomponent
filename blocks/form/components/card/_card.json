@@ -1,14 +1,14 @@
 {
   "definitions": [
     {
-      "title": "Card ",
-      "id": "Card ",
+      "title": "card",
+      "id": "card",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/fd/components/form/radiobutton/v1/radiobutton",
             "template": {
-              "jcr:title": "Card ",
+              "jcr:title": "card",
               "fieldType": "radio-group",
               "enum": [
                 "0",
@@ -19,7 +19,7 @@
                 "Item 2"
               ],
               "orientation": "horizontal",
-              "fd:viewType": "Card "
+              "fd:viewType": "card"
             }
           }
         }
@@ -28,7 +28,7 @@
   ],
   "models": [
     {
-      "id": "Card ",
+      "id": "card",
       "fields": [
         {
           "component": "tab",

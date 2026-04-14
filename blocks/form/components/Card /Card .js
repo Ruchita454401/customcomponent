@@ -5,7 +5,7 @@ export default function decorate(element, fieldJson, container, formId) {
 
   element.querySelectorAll('.radio-wrapper').forEach((radioWrapper) => {
     const image = createOptimizedPicture(
-      'https://main--customcomponent--ruchita454401.aem.live/blocks/form/components/image/card.png',
+      '/blocks/form/components/image/card.png',
       'card-image'
     );
     radioWrapper.appendChild(image);

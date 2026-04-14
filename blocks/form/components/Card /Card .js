@@ -1,5 +1,4 @@
 import { createOptimizedPicture } from '../../../../scripts/aem.js';
-
 export default function decorate(element, fieldJson, container, formId) {
   element.classList.add('card');
 
@@ -10,6 +9,5 @@ export default function decorate(element, fieldJson, container, formId) {
     );
     radioWrapper.appendChild(image);
   });
-
   return element;
 }

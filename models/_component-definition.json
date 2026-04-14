@@ -44,7 +44,7 @@
           "...": "../blocks/form/components/range/_range.json#/definitions"
         },
         {
-          "...": "../blocks/form/components/Card /_Card .json#/definitions"
+          "...": "../blocks/form/components/card/_card.json#/definitions"
         }
       ]
     }
